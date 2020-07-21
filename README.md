@@ -13,8 +13,8 @@ You have stumbled upon the domain of TheRealHazzard, aka J. Robin Thomas. I love
 ## Project Showcase:
 
 - [Steam Quest](http://steamq.herokuapp.com)
-- [Object] Detection and Recognition(https://www.youtube.com/watch?v=YJq4Mkoj1gs&t=176s)
-- [MacOS] on Windows(https://www.youtube.com/watch?v=p2-qGc7WXDA)
+- [Object Detection and Recognition](https://www.youtube.com/watch?v=YJq4Mkoj1gs&t=176s)
+- [MacOS on Windows](https://www.youtube.com/watch?v=p2-qGc7WXDA)
 - [VIT CGPA Calculator](https://vit-gpacalculator.herokuapp.com)
 - [Custom To-Do_List](https://to-do-list-therealhazzard.herokuapp.com)
 
