@@ -16,7 +16,7 @@ You have stumbled upon the domain of TheRealHazzard, aka J. Robin Thomas. I love
 - [Object Detection and Recognition](https://www.youtube.com/watch?v=YJq4Mkoj1gs&t=176s)
 - [MacOS on Windows](https://www.youtube.com/watch?v=p2-qGc7WXDA)
 - [VIT CGPA Calculator](https://vit-gpacalculator.herokuapp.com)
-- [Custom To-Do_List](https://to-do-list-therealhazzard.herokuapp.com)
+- [Custom To-Do List](https://to-do-list-therealhazzard.herokuapp.com)
 
 ## Media Showcase:
 
