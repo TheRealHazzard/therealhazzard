@@ -26,4 +26,4 @@ You have stumbled upon the domain of TheRealHazzard, aka J. Robin Thomas. I love
 - [Steam Quest Demo](https://youtu.be/QePXaPNqZp0)
 - [Object Detection and Recognition Demo](https://youtu.be/YJq4Mkoj1gs)
 - [MacOS on Linux Demo](https://youtu.be/p2-qGc7WXDA)
-- [VIT CGPA CAlculator Demo](https://youtu.be/NSjTibLHpzc)
+- [VIT CGPA Calculator Demo](https://youtu.be/NSjTibLHpzc)
