@@ -9,6 +9,8 @@ You have stumbled upon the domain of TheRealHazzard, aka J. Robin Thomas. I love
 - [Github](www.github.com/therealhazzard)
 - [Linkedin](https://www.linkedin.com/in/robin-thomas-3a6555183/) - You can find more details about my projects and skills here
 - [My Youtube Channel](https://www.youtube.com/channel/UCPwg1hM28IaUrY2gj8gLcjQ ) - You can find my projects and videos about Life at VIT here :)
+- [LeetCode](https://leetcode.com/therealhazzard/)
+- [HackerRank](https://www.hackerrank.com/rj1447)
 
 ## Project Showcase:
 
