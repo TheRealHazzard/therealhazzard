@@ -8,7 +8,6 @@ You have stumbled upon the domain of TheRealHazzard, aka J. Robin Thomas. I love
 - rj1447@hotmail.com
 - [Github](www.github.com/therealhazzard)
 - [Linkedin](https://www.linkedin.com/in/robin-thomas-3a6555183/) - You can find more details about my projects and skills here
-- [My Youtube Channel](https://www.youtube.com/channel/UCPwg1hM28IaUrY2gj8gLcjQ ) - You can find my projects and videos about Life at VIT here :)
 - [LeetCode](https://leetcode.com/therealhazzard/)
 - [HackerRank](https://www.hackerrank.com/rj1447)
 
@@ -22,8 +21,6 @@ You have stumbled upon the domain of TheRealHazzard, aka J. Robin Thomas. I love
 
 ## Media Showcase:
 
-- [The VIT Experience](https://youtu.be/LhT5ArK6RxA)
-- [The Third Wave](https://youtu.be/aO_XOsBOloc)
 - [Hollowness](https://www.youtube.com/watch?v=hW0pVU8Z9Qw)
 - [Steam Quest Demo](https://youtu.be/QePXaPNqZp0)
 - [Object Detection and Recognition Demo](https://youtu.be/YJq4Mkoj1gs)
