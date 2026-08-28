@@ -7,14 +7,10 @@ in React, TypeScript, and Next.js, with a focus on scalable, configuration-drive
 and micro-frontend architecture.
 🔭 Currently exploring algorithmic trading systems and fintech tooling on the side.
 
-## Experience
+## The Journey
 
-**Senior Software Engineer** · Tekion Corporation *(2021 – Present)*
-- Grew from intern to senior engineer over 5 years across 4 internal promotions
-- Lead front-end architecture decisions and review the work of other engineers
-- Migrated core applications from a monolith to a micro-frontend architecture
-- Cut load times by more than half through lazy-loading and bootstrap optimization
-- Mentor incoming engineers on UI development practices each year
+![Career and education timeline](assets/timeline-dark.svg#gh-dark-mode-only)
+![Career and education timeline](assets/timeline-light.svg#gh-light-mode-only)
 
 ## Tech Stack
 
