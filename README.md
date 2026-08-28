@@ -1,8 +1,8 @@
-![Robin Thomas — Senior Software Engineer](assets/banner-dark.svg#gh-dark-mode-only)
-![Robin Thomas — Senior Software Engineer](assets/banner-light.svg#gh-light-mode-only)
+![Robin Thomas, Senior Software Engineer](assets/banner-dark.svg#gh-dark-mode-only)
+![Robin Thomas, Senior Software Engineer](assets/banner-light.svg#gh-light-mode-only)
 
 Senior Software Engineer at **Tekion Corporation**, with 5+ years building enterprise
-web platforms — from intern to leading front-end architecture decisions. I specialize
+web platforms, from intern to leading front-end architecture decisions. I specialize
 in React, TypeScript, and Next.js, with a focus on scalable, configuration-driven UI
 and micro-frontend architecture.
 🔭 Currently exploring algorithmic trading systems and fintech tooling on the side.
