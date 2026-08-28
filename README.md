@@ -30,6 +30,8 @@ and micro-frontend architecture.
 ## Beyond Code
 
 Outside of engineering, I write, direct, and act in short films and stage plays.
+When I'm not doing that, I'm probably gaming, buried in a book, at the board
+game table, or planning the next trip.
 
 ## Connect
 
