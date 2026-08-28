@@ -1,28 +1,34 @@
-### Hello There, Welcome to my Github Account. Feel free to Poke around... 
+# Hi, I'm Robin 👋
 
-You have stumbled upon the domain of TheRealHazzard, aka J. Robin Thomas. I love creating beautiful Websites and have worked on Projects as a full stack developer. I also love creating videos and have edited and acted in shortfilms and written, directed and acted in stage-plays.
+Full-stack developer at **Tekion Corporation**, building with React, TypeScript, and Python.
+🔭 Currently exploring algorithmic trading systems and fintech tooling on the side.
 
+## Tech Stack
 
-## You can reach me at: 
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-- rj1447@hotmail.com
-- [Github](www.github.com/therealhazzard)
-- [Linkedin](https://www.linkedin.com/in/robin-thomas-3a6555183/) - You can find more details about my projects and skills here
-- [LeetCode](https://leetcode.com/therealhazzard/)
-- [HackerRank](https://www.hackerrank.com/rj1447)
+## GitHub Stats
 
-## Project Showcase:
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheRealHazzard&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealHazzard&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- [Steam Quest](http://steamq.herokuapp.com)
-- [Object Detection and Recognition](https://www.youtube.com/watch?v=YJq4Mkoj1gs&t=176s)
-- [MacOS on Windows](https://www.youtube.com/watch?v=p2-qGc7WXDA)
-- [VIT CGPA Calculator](https://vit-gpacalculator.herokuapp.com)
-- [Custom To-Do List](https://to-do-list-therealhazzard.herokuapp.com)
+<img src="https://streak-stats.demolab.com?user=TheRealHazzard&theme=tokyonight&hide_border=true" />
 
-## Media Showcase:
+## Beyond Code
 
-- [Hollowness](https://www.youtube.com/watch?v=hW0pVU8Z9Qw)
-- [Steam Quest Demo](https://youtu.be/QePXaPNqZp0)
-- [Object Detection and Recognition Demo](https://youtu.be/YJq4Mkoj1gs)
-- [MacOS on Linux Demo](https://youtu.be/p2-qGc7WXDA)
-- [VIT CGPA Calculator Demo](https://youtu.be/NSjTibLHpzc)
+Outside of engineering, I write, direct, and act in short films and stage plays.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-thomas-3a6555183/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/therealhazzard/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rj1447)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rj1447@hotmail.com)
