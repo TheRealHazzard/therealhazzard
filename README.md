@@ -15,11 +15,6 @@ Full-stack developer at **Tekion Corporation**, building with React, TypeScript,
 
 ## GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheRealHazzard&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealHazzard&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <img src="https://streak-stats.demolab.com?user=TheRealHazzard&theme=tokyonight&hide_border=true" />
 
 ## Beyond Code
