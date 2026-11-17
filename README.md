@@ -1,8 +1,8 @@
 <div align="center">
 
-![Robin Thomas — front-end engineer, available for freelance](assets/hero.svg)
+![Robin Thomas, front-end engineer](assets/hero.svg)
 
-[![Hire me](https://img.shields.io/badge/Hire_me-rj1447%40hotmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rj1447@hotmail.com?subject=Project%20enquiry)
+[![Email](https://img.shields.io/badge/Email-rj1447%40hotmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rj1447@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-thomas-rj1447/)
 
 </div>
@@ -11,8 +11,7 @@
 
 I'm a senior front-end engineer who has spent 5+ years taking enterprise web platforms
 from first commit to production at **Tekion**, from intern to leading architecture decisions.
-Now I'm taking on a small number of freelance projects where speed, polish and
-maintainability all matter.
+I care about speed, polish and maintainability, and I like working on products where all three matter.
 
 ![Services](assets/services.svg)
 
@@ -22,11 +21,11 @@ maintainability all matter.
 
 <sub>Most of my work lives in private repos. Walkthroughs and code samples are available on request.</sub>
 
-## How we'd work together
+## How I work
 
 | 1. Scope | 2. Build | 3. Ship | 4. Support |
 |---|---|---|---|
-| A short call, a written plan, a fixed price or clear estimate | Weekly demos, preview links, no black boxes | Tested, typed, documented, deployed | Handover docs and a post-launch window |
+| A short call and a written plan with clear estimates | Weekly demos, preview links, no black boxes | Tested, typed, documented, deployed | Handover docs and a post-launch window |
 
 ## Stack
 
@@ -46,6 +45,6 @@ maintainability all matter.
 
 <div align="center">
 
-**Have a project in mind?** [Send me a message](mailto:rj1447@hotmail.com?subject=Project%20enquiry) and I'll reply within a day.
+**Want to talk?** [Send me a message](mailto:rj1447@hotmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/robin-thomas-rj1447/).
 
 </div>
