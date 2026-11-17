@@ -1,0 +1,16 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Robin Thomas, front-end engineer, available for freelance">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#39d0d8"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#58a6ff" stop-opacity="0.22"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#21262d" stroke-width="1"/></pattern>
+<clipPath id="tw"><rect x="60" y="150" width="0" height="34"><animate attributeName="width" values="0;600" dur="2.6s" begin="0.4s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect width="900" height="280" rx="14" fill="#0d1117"/><rect width="900" height="280" rx="14" fill="url(#grid)"/><rect width="900" height="280" rx="14" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="899" height="279" rx="14" fill="none" stroke="#30363d"/>
+<g transform="translate(60,46)"><rect width="262" height="30" rx="15" fill="#0f2a1a" stroke="#238636"/><circle cx="18" cy="15" r="5" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="18" cy="15" r="5" fill="none" stroke="#3fb950"><animate attributeName="r" values="5;13" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/></circle><text x="34" y="20" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#3fb950">AVAILABLE FOR FREELANCE WORK</text></g>
+<text x="60" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#e6edf3">Robin Thomas</text>
+<text x="60" y="176" font-family="Consolas, Menlo, monospace" font-size="20" fill="#39d0d8" clip-path="url(#tw)">I build fast, scalable React &amp; Next.js products.</text>
+<text x="60" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">Senior Software Engineer · 5+ years shipping enterprise web platforms · Bengaluru, working worldwide</text>
+<rect x="60" y="236" width="780" height="3" rx="1.5" fill="#21262d"/><rect x="60" y="236" width="120" height="3" rx="1.5" fill="url(#g)"><animate attributeName="x" values="60;720;60" dur="6s" repeatCount="indefinite"/></rect>
+<text x="800" y="140" font-family="Consolas, Menlo, monospace" font-size="110" font-weight="700" fill="#161b22" text-anchor="middle">&lt;/&gt;</text>
+</svg>
